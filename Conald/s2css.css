@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    background-color: rgb(204, 124, 19);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header{
+    background-color: blueviolet;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+header h1{
+    color:silver;
+}
+
+header img{
+    border-radius: 80px;
+    border: 10px solid white; 
+}
+
+/* shortcut for centering items
+margin 0(t,b) auto(l,r)
+maxwidth same as main image*/
+main{
+    max-width: 800px;
+    margin:0 auto;
+    padding: 20px 20px 20px 20px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(0, 99, 248);
+}
+
+a{
+    color: rgb(0,99,248);
+}
+
+a:hover{
+    color: rgb(111, 7, 247)
+}
+
+footer{
+    background-color: antiquewhite;
+    padding-top: 1px;
+    padding-bottom: 2px;
+    text-align: center;
+}
+
+p.caption{
+    color: rgb(173, 31, 185);
+    font-style: italic;
+}
