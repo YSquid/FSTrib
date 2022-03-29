@@ -4,7 +4,7 @@ body{
 }
 
 header{
-    background-color: blueviolet;
+    background-color: linear-gradient(45deg,#1D1CE3,#E2E31C);
     padding-top: 50px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
