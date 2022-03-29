@@ -1,14 +1,13 @@
 body{
-    margin: 0;
     background-color: rgb(204, 124, 19);
     font-family: 'Courier New', Courier, monospace;
 }
 
 header{
     background-color: blueviolet;
-    text-align: center;
     padding-top: 50px;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 
 
